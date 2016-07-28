@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.MainActivity">
+
+    <Button
+        android:id="@+id/btnSlider"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Viewpager Slider" />
+
+    <Button
+        android:id="@+id/btnZoomOut"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Viewpager Zoom out" />
+
+    <Button
+        android:id="@+id/btnDepth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Viewpager Depth" />
+
+    <Button
+        android:id="@+id/btnCardAnimation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Viewpager Card Animation" />
+    <Button
+        android:id="@+id/btnZooming"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zooming a view" />
+    <Button
+        android:id="@+id/btnLayoutChanges"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Layout Changes" />
+</LinearLayout>

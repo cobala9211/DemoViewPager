@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoViewPager</string>
+    <string name="description_image_1">Image 1</string>
+    <string name="description_image_2">Image 2</string>
+    <string name="action_remove_item">Remove item</string>
+    <string name="action_add_item">Add item</string>
+    <string name="description_zoom_touch_close">Expanded image (touch to close)</string>
+    <string name="message_empty_layout_changes">Add an item above to get started.</string>
+</resources>
